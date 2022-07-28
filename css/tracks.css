@@ -1,0 +1,185 @@
+.dark {
+    color: rgb(255, 255, 255);
+    background-color: rgb(84 49 90);
+}
+
+.darkfoot {
+    background-color: rgb(34 34 34 / 85%);
+}
+
+.footer {
+    background-color: #7ba7ce;
+}
+
+#mode {}
+
+#mode1 {
+    display: none;
+}
+
+body {
+    align-items: center;
+    text-align: center;
+    background-color: #b7cadb;
+    font-family: 'Cairo', sans-serif;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+.logo {
+    text-align: center;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    align-items: center;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+}
+
+a:active {
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+}
+
+#bod {
+    text-align: center;
+    border: solid 5px #DAB88B;
+    background-color: #f3e9dd;
+    width: 90%;
+    padding: 3px;
+    padding-top: 1vw;
+    border: solid 3px;
+    border-radius: 0;
+    text-align: right;
+    font-size: 30px;
+    align-items: center;
+    /* margin-left: 150px;*/
+    margin-left: 5%;
+    margin-top: 180px;
+    text-align: center;
+    color: black;
+}
+
+button {
+    font-size: 30px;
+    background-color: transparent;
+}
+
+.one {
+    float: left;
+    width: 40%;
+}
+
+.foo {
+    text-align: left;
+}
+
+.icon {
+    text-align: left;
+}
+
+.foo1 {
+    position: relative;
+    top: -40px;
+    left: 25%;
+}
+
+.foo2 {
+    position: relative;
+    top: -40px;
+    left: 30%;
+}
+
+.foo3 {
+    position: relative;
+    top: -58px;
+    left: 25%;
+}
+
+.foo4 {
+    position: relative;
+    top: -58px;
+    left: 30%;
+}
+
+.foo5 {
+    position: relative;
+    left: 56%;
+}
+
+.headbar {
+    background-color: rgb(34 34 34 / 85%);
+    margin-bottom: 20px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    height: 154px;
+}
+
+.mode {
+    position: relative;
+    top: 0;
+    left: 0;
+    color: rgb(255, 255, 255);
+}
+
+#footer {
+    width: 100%;
+    height: 280px;
+    bottom: -91px;
+    position: relative;
+    padding: 3px;
+    border: solid 5px #DAB88B;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.button-mode {
+    display: block;
+    position: relative;
+    top: -117px;
+    left: 820px;
+    background-color: transparent;
+}
+
+.button-mode button {
+    background-color: transparent;
+    border: transparent;
+}
+
+.learnhtml {
+    width: 250px;
+    height: auto;
+    font-size: 30px;
+    color: azure;
+    background-color: black;
+}
+
+.learncss {
+    width: 250px;
+    height: auto;
+    font-size: 30px;
+    color: azure;
+    background-color: black;
+}
+
+.learnjs {
+    width: 250px;
+    height: auto;
+    font-size: 30px;
+    color: azure;
+    background-color: black;
+}
